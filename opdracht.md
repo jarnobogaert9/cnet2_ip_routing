@@ -42,7 +42,7 @@ year: 2022
 
 > screenshot of the router pinging external node
 
-![](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/router_pinging_external_node.png)
+![Router pinging external node](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/router_pinging_external_node.png)
 
 ### ... the hosts
 
@@ -52,11 +52,11 @@ You need to add a default gateway on the hosts to be able to ping the router. Yo
 
 > screenshot of the workstation pinging the webserver
 
-![](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/ws_pinging_web.png)
+![Workstation pinging webserver](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/ws_pinging_web.png)
 
 > Your built-up routing table of the company router (ip route output):
 
-![](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/router_routing_table.png)
+![Router routing table](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/router_routing_table.png)
 
 ### ... the ISP router
 
@@ -68,7 +68,7 @@ In our case we miss the network 10.20.100.0/24
 
 > screenshot of the workstation pinging external node
 
-![](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/ws_pinging_external_node.png)
+![Workstation pinging external node](https://raw.githubusercontent.com/jarnobogaert9/cnet2_ip_routing/main/ws_pinging_external_node.png)
 
 > Explain what general rule make the entry match.
 
